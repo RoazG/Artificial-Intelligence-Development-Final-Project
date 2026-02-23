@@ -1,6 +1,7 @@
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([NOTEBOOK_LINK](https://github.com/RoazG/Artificial-Intelligence-Development-Final-Project))
 
 # MarketMoodAI
 
@@ -61,7 +62,8 @@ This is how you create code examples:
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 
 The dataset will consist of publicly available financial news datasets. Possible sources include open datasets from Kaggle and publicly available financial headline collections.
-
+This project uses a pre-trained transformer model called FinBERT, 
+which is specifically trained on financial text for sentiment classification.
 If you need to use links, here's an example:
 [https://www.kaggle.com](https://www.kaggle.com)
 
@@ -69,10 +71,9 @@ AI methods used in the project:
 
 | Method | Description |
 | ----------- | ----------- |
-| Text preprocessing | Cleaning, normalization and tokenization |
-| TF-IDF vectorization | Converting text into numerical features |
-| Logistic Regression | Supervised classification model |
-| Model evaluation | Accuracy, precision, recall metrics |
+| Transformer Model (FinBERT) | Finance-specific sentiment classification |
+| Tokenization | Text preprocessing |
+| Softmax Classification | Probability-based sentiment scoring |
 
 
 ## Challenges
