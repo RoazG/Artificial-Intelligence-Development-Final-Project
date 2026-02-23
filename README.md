@@ -1,6 +1,3 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([NOTEBOOK_LINK](https://github.com/RoazG/Artificial-Intelligence-Development-Final-Project))
 
 # MarketMoodAI
@@ -11,6 +8,7 @@ Final project for the Building AI course
 
 MarketMoodAI is an AI-powered financial news sentiment analysis system that classifies financial headlines as positive, negative, or neutral to estimate potential market impact. The project applies natural language processing and supervised machine learning techniques.  
 Building AI course project.
+The system demonstrates how domain-specific transformer models can be used for decision-support in financial markets.
 
 
 ## Background
@@ -36,6 +34,8 @@ The system takes financial news headlines or article text as input and classifie
 - Neutral  
 
 The solution can be used in financial research environments, portfolio monitoring, trading strategy development, or academic experimentation.
+The system also converts sentiment output into a numerical market impact score, 
+allowing sentiment signals to be interpreted quantitatively.
 
 Typical workflow:
 
