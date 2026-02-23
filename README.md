@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([NOTEBOOK_LINK](https://github.com/RoazG/Artificial-Intelligence-Development-Final-Project))
+https://colab.research.google.com/drive/1CZUAdsNl7XCZwGFoRNSAp-aCD0OX4VJ6#scrollTo=fiWHvSWsPQWP
 
 # MarketMoodAI
 
